@@ -1,0 +1,6 @@
+# Packages
+/node_modules
+
+# Frontend assets
+/web/js/*
+!/web/js/.gitkeep
