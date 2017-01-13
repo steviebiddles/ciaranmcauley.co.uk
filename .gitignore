@@ -4,3 +4,9 @@
 # Frontend assets
 /web/js/*
 !/web/js/.gitkeep
+
+/web/css/*
+!/web/css/.gitkeep
+
+/web/fonts/*
+!/web/fonts/.gitkeep

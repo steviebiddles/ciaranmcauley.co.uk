@@ -1,0 +1,17 @@
+html {
+  font-size: $font-size-base;
+}
+
+body {
+  font-family: $font-family-sans-serif;
+  -webkit-font-smoothing: subpixel-antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  dd, li, td, p, a, address {
+    font-weight: 300;
+
+    @media print {
+      font-size: 12pt !important;
+    }
+  }
+}

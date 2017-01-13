@@ -1,0 +1,44 @@
+body {
+  background: #525252;
+  color: #ffffff;
+
+  [v-cloak] {
+    display: none;
+  }
+
+  header#site-header {
+    text-align: center;
+    padding-top: 2em;
+
+    @media (min-width: $screen-md) {
+      text-align: left;
+    }
+
+    img#logo {
+      padding-bottom: 2em;
+    }
+
+    ul#social-networks {
+      a {
+        color: #525252;
+
+        &:hover {
+          color: #93BD20;
+        }
+      }
+
+      @media (min-width: $screen-md) {
+        text-align: right;
+      }
+    }
+  }
+
+  footer#site-footer {
+    padding: 2em 0 2em 0;
+    text-align: center;
+
+    @media (min-width: $screen-md) {
+      text-align: right;
+    }
+  }
+}

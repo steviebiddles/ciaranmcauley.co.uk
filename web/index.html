@@ -4,31 +4,113 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Ciaran McAuley - Producer / DJ and formerly one half of renowned trance duo Walsh &amp; McAuley. One of the brightest emeralds in Ireland's rich trance history, one of Ireland's much vaunted new breed of trance producer.">
 
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <title>Ciaran McAuley</title>
 
-    <title>ciaranmcauley.co.uk</title>
-    <style>
-        [v-cloak] {
-            display: none;
-        }
-    </style>
+    <link rel="icon" type="image/x-icon" href="favicon.ico"/>
+    <link rel="alternate" type="application/atom+xml" href="http://feeds.feedblitz.com/ciaranmcauley-podcasts&x=1" title="Ciaran McAuley - Obsession Podcasts" />
+    <link rel="stylesheet" href="css/site.css">
+
+    <script src="//use.fontawesome.com/50b243e5e3.js"></script>
 </head>
 
 <body>
+    <div id="app">
 
-<div id="app">
+        <header id="site-header">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-12 col-md-6">
+                        <img id="logo" src="img/logo.png" alt="Ciaran McAuley logo"/>
+                    </div>
+                    <div class="col-xs-12 col-sm-12 col-md-6">
+                        <ul id="social-networks" class="list-inline">
+                            <li>
+                                <a href="https://www.facebook.com/djciaranmcauley" title="View my Facebook page"
+                                   onclick="window.open(this.href); return false;">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                                        <i class="fa fa-facebook fa-stack-1x icon "></i>
+                                    </span>
+                                </a>
+                            </li>
 
-    <h1>ciaranmcauley.co.uk</h1>
-    <ul v-cloak="">
-        <li v-for="futureEvent in futureEvents">
-            {{ futureEvent.name }}
-        </li>
-    </ul>
+                            <li>
+                                <a href="https://twitter.com/djciaranmcauley" title="Follow me on Twitter"
+                                   onclick="window.open(this.href); return false;">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                                        <i class="fa fa-twitter fa-stack-1x icon"></i>
+                                    </span>
+                                </a>
+                            </li>
 
-</div>
+                            <li>
+                                <a href="rss/podcasts.xml" title="Subscribe to RSS Feed">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                                        <i class="fa fa-rss fa-stack-1x icon"></i>
+                                    </span>
+                                </a>
+                            </li>
 
-<script src="js/app.js"></script>
+                            <li>
+                                <a href="https://soundcloud.com/dj-ciaran-mcauley" title="Follow me on Soundcloud"
+                                   onclick="window.open(this.href); return false;">
+                                        <span class="fa-stack fa-lg">
+                                            <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                                            <i class="fa fa-soundcloud fa-stack-1x icon"></i>
+                                        </span>
+                                </a>
+                            </li>
+
+                            <li>
+                                <a href="mailto:info@ciaranmcauley.co.uk" title="Send me an email">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                                        <i class="fa fa-at fa-stack-1x icon"></i>
+                                    </span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <section id="future-events">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <img id="profile-img" src="img/ciaran.png" alt="Ciaran McAuley">
+
+                        <ul id="future-events-list" v-cloak="">
+                            <li class="list-unstyled" v-for="futureEvent in futureEvents">
+                                {{ futureEvent.name }}
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <footer id="site-footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <a href="https://itunes.apple.com/gb/podcast/ciaran-mcauley-obsession-podcasts/id963491334?mt=2" onclick="window.open(this.href); return false;" title="Ciaran McAuley Podcast">
+                            <img src="img/podcast-btn-black.png" alt="Podcast available in iTunes"/>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+    </div>
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/app.js"></script>
 </body>
 </html>

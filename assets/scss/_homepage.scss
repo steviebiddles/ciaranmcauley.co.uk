@@ -1,0 +1,17 @@
+section#future-events {
+  @include font-size(18px);
+  text-align: center;
+
+  img {
+    z-index: 999;
+  }
+
+  ul {
+    padding-top: 2em;
+    z-index: 9999;
+    position: absolute;
+    top: 0;
+    left: 0;
+    text-align: left;
+  }
+}

@@ -1,0 +1,3 @@
+RewriteEngine on
+RewriteCond %{HTTP_USER_AGENT} !(FeedBlitz|FeedValidator)
+RewriteRule ^podcasts\.xml$ http://feeds.feedblitz.com/ciaranmcauley-podcasts [R=302,L]

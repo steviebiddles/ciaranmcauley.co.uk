@@ -1,0 +1,257 @@
+<?xml version="1.0"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+
+        <title>Ciaran McAuley - Obsession Podcasts</title>
+        <description>Obsession Podcasts - The latest tracks, remixes and productions from Ciaran McAuley</description>
+        <link>http://www.ciaranmcauley.co.uk</link>
+        <language>en-gb</language>
+        <ttl>60</ttl>
+        <atom:link href="http://www.ciaranmcauley.co.uk/rss/podcasts.xml" rel="self" type="application/rss+xml" />
+        <itunes:subtitle>Ciaran McAuley - Obsession Podcasts</itunes:subtitle>
+        <itunes:author>Ciaran McAuley</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:keywords>ciaran, mcauley, obsession, radio</itunes:keywords>
+        <itunes:block>no</itunes:block>
+        <itunes:owner>
+            <itunes:name>Ciaran McAuley</itunes:name>
+            <itunes:email>ciaran@ciaranmcauley.co.uk</itunes:email>
+        </itunes:owner>
+        <itunes:summary>Obsession Podcasts - The latest tracks, remixes and productions from Ciaran McAuley</itunes:summary>
+        <itunes:category text="Music"/>
+        <itunes:category text="Radioshow"/>
+        <itunes:image href="http://www.ciaranmcauley.co.uk/theme/img/podcast-main.png"/>
+        <!--<image>
+            <url>http://www.ciaranmcauley.co.uk/theme/img/podcast-logo.jpg</url>
+            <title>Ciaran McAuley - Obsession Podcasts</title>
+            <link>http://www.ciaranmcauley.co.uk</link>
+            <width>95</width>
+            <height>95</height>
+        </image>-->
+
+        <item>
+            <title>Ciaran McAuley :: October 2014 (Obsession #001 on AH.FM)</title>
+            <link>http://www.ciaranmcauley.co.uk</link>
+            <itunes:author>Ciaran McAuley</itunes:author>
+            <itunes:subtitle>Ciaran McAuley :: October 2014 (Obsession #001 on AH.FM)</itunes:subtitle>
+            <itunes:summary>:: Tracklist :: October 2014 ::</itunes:summary>
+            <itunes:keywords>Ciaran McAuley, Obsession, Episode 1</itunes:keywords>
+            <itunes:block>no</itunes:block>
+            <itunes:image href="http://www.ciaranmcauley.co.uk/theme/img/podcast-main.png"/>
+            <enclosure url="http://s3-eu-west-1.amazonaws.com/obsession-radio/cmca-obsession001.mp3" length="97190889" type="audio/mpeg"/>
+            <guid isPermaLink="false">ep001-19.10.2014</guid>
+            <itunes:explicit>no</itunes:explicit>
+            <pubDate>Sun, 19 Oct 2014 00:00:00 GMT</pubDate>
+            <itunes:duration>3641</itunes:duration>
+        </item>
+
+        <item>
+            <title>Ciaran McAuley :: November 2014 (Obsession #002 on AH.FM)</title>
+            <link>http://www.ciaranmcauley.co.uk</link>
+            <itunes:author>Ciaran McAuley</itunes:author>
+            <itunes:subtitle>Ciaran McAuley :: November 2014 (Obsession #002 on AH.FM)</itunes:subtitle>
+            <itunes:summary>:: Tracklist :: November 2014 ::</itunes:summary>
+            <itunes:keywords>Ciaran McAuley, Obsession, Episode 2</itunes:keywords>
+            <itunes:block>no</itunes:block>
+            <itunes:image href="http://www.ciaranmcauley.co.uk/theme/img/podcast-main.png"/>
+            <enclosure url="http://s3-eu-west-1.amazonaws.com/obsession-radio/cmca-obsession002.mp3" length="94590682" type="audio/mpeg"/>
+            <guid isPermaLink="false">ep002-16.11.2014</guid>
+            <itunes:explicit>no</itunes:explicit>
+            <pubDate>Sun, 16 Nov 2014 00:00:00 GMT</pubDate>
+            <itunes:duration>3831</itunes:duration>
+        </item>
+
+        <item>
+            <title>Ciaran McAuley :: December 2014 (Obsession #003 on AH.FM)</title>
+            <link>http://www.ciaranmcauley.co.uk</link>
+            <itunes:author>Ciaran McAuley</itunes:author>
+            <itunes:subtitle>Ciaran McAuley :: December 2014 (Obsession #003 on AH.FM)</itunes:subtitle>
+            <itunes:summary>:: Tracklist :: December 2014 :: End of Year Countdown</itunes:summary>
+            <itunes:keywords>Ciaran McAuley, Obsession, Episode 3</itunes:keywords>
+            <itunes:block>no</itunes:block>
+            <itunes:image href="http://www.ciaranmcauley.co.uk/theme/img/podcast-main.png"/>
+            <enclosure url="http://s3-eu-west-1.amazonaws.com/obsession-radio/cmca-obsession003.mp3" length="90614508" type="audio/mpeg"/>
+            <guid isPermaLink="false">ep003-21.12.2014</guid>
+            <itunes:explicit>no</itunes:explicit>
+            <pubDate>Sun, 21 Dec 2014 00:00:00 GMT</pubDate>
+            <itunes:duration>3705</itunes:duration>
+        </item>
+
+        <item>
+            <title>Ciaran McAuley :: January 2015 (Obsession #004 on AH.FM)</title>
+            <link>http://www.ciaranmcauley.co.uk</link>
+            <itunes:author>Ciaran McAuley</itunes:author>
+            <itunes:subtitle>Ciaran McAuley :: January 2015 (Obsession #004 on AH.FM)</itunes:subtitle>
+            <itunes:summary>:: Tracklist :: January 2015 ::</itunes:summary>
+            <itunes:keywords>Ciaran McAuley, Obsession, Episode 4</itunes:keywords>
+            <itunes:block>no</itunes:block>
+            <itunes:image href="http://www.ciaranmcauley.co.uk/theme/img/podcast-main.png"/>
+            <enclosure url="http://s3-eu-west-1.amazonaws.com/obsession-radio/cmca-obsession004.mp3" length="91235183" type="audio/mpeg"/>
+            <guid isPermaLink="false">ep004-18.01.2015</guid>
+            <itunes:explicit>no</itunes:explicit>
+            <pubDate>Sun, 18 Jan 2015 00:00:00 GMT</pubDate>
+            <itunes:duration>3680</itunes:duration>
+        </item>
+
+        <item>
+            <title>Ciaran McAuley :: February 2015 (Obsession #005 on AH.FM)</title>
+            <link>http://www.ciaranmcauley.co.uk</link>
+            <itunes:author>Ciaran McAuley</itunes:author>
+            <itunes:subtitle>Ciaran McAuley :: February 2015 (Obsession #005 on AH.FM)</itunes:subtitle>
+            <itunes:summary>:: Tracklist :: February 2015 ::</itunes:summary>
+            <itunes:keywords>Ciaran McAuley, Obsession, Episode 5</itunes:keywords>
+            <itunes:block>no</itunes:block>
+            <itunes:image href="http://www.ciaranmcauley.co.uk/theme/img/podcast-main.png"/>
+            <enclosure url="http://s3-eu-west-1.amazonaws.com/obsession-radio/cmca-obsession005.mp3" length="86264752" type="audio/mpeg"/>
+            <guid isPermaLink="false">ep005-15.02.2015</guid>
+            <itunes:explicit>no</itunes:explicit>
+            <pubDate>Sun, 15 Feb 2015 00:00:00 GMT</pubDate>
+            <itunes:duration>3593</itunes:duration>
+        </item>
+
+        <item>
+            <title>Ciaran McAuley :: March 2015 (Obsession #006 on AH.FM)</title>
+            <link>http://www.ciaranmcauley.co.uk</link>
+            <itunes:author>Ciaran McAuley</itunes:author>
+            <itunes:subtitle>Ciaran McAuley :: March 2015 (Obsession #006 on AH.FM)</itunes:subtitle>
+            <itunes:summary>:: Tracklist :: March 2015 ::</itunes:summary>
+            <itunes:keywords>Ciaran McAuley, Obsession, Episode 6</itunes:keywords>
+            <itunes:block>no</itunes:block>
+            <itunes:image href="http://www.ciaranmcauley.co.uk/theme/img/podcast-main.png"/>
+            <enclosure url="http://s3-eu-west-1.amazonaws.com/obsession-radio/cmca-obsession006.mp3" length="93668354" type="audio/mpeg"/>
+            <guid isPermaLink="false">ep006-15.03.2015</guid>
+            <itunes:explicit>no</itunes:explicit>
+            <pubDate>Sun, 15 Mar 2015 00:00:00 GMT</pubDate>
+            <itunes:duration>3694</itunes:duration>
+        </item>
+
+        <item>
+            <title>Ciaran McAuley :: April 2015 (Obsession #007 on AH.FM)</title>
+            <link>http://www.ciaranmcauley.co.uk</link>
+            <itunes:author>Ciaran McAuley</itunes:author>
+            <itunes:subtitle>Ciaran McAuley :: April 2015 (Obsession #007 on AH.FM)</itunes:subtitle>
+            <itunes:summary>:: Tracklist :: April 2015 ::</itunes:summary>
+            <itunes:keywords>Ciaran McAuley, Obsession, Episode 7</itunes:keywords>
+            <itunes:block>no</itunes:block>
+            <itunes:image href="http://www.ciaranmcauley.co.uk/theme/img/podcast-main.png"/>
+            <enclosure url="http://s3-eu-west-1.amazonaws.com/obsession-radio/cmca-obsession007.mp3" length="82108276" type="audio/mpeg"/>
+            <guid isPermaLink="false">ep007-19.04.2015</guid>
+            <itunes:explicit>no</itunes:explicit>
+            <pubDate>Sun, 19 Apr 2015 00:00:00 GMT</pubDate>
+            <itunes:duration>3608</itunes:duration>
+        </item>
+
+        <item>
+            <title>Ciaran McAuley :: May 2015 (Obsession #008 on AH.FM)</title>
+            <link>http://www.ciaranmcauley.co.uk</link>
+            <itunes:author>Ciaran McAuley</itunes:author>
+            <itunes:subtitle>Ciaran McAuley :: May 2015 (Obsession #008 on AH.FM)</itunes:subtitle>
+            <itunes:summary>:: Tracklist :: May 2015 ::</itunes:summary>
+            <itunes:keywords>Ciaran McAuley, Obsession, Episode 8</itunes:keywords>
+            <itunes:block>no</itunes:block>
+            <itunes:image href="http://www.ciaranmcauley.co.uk/theme/img/podcast-main.png"/>
+            <enclosure url="http://s3-eu-west-1.amazonaws.com/obsession-radio/cmca-obsession008.mp3" length="90347948" type="audio/mpeg"/>
+            <guid isPermaLink="false">ep008-17.05.2015</guid>
+            <itunes:explicit>no</itunes:explicit>
+            <pubDate>Sun, 17 May 2015 00:00:00 GMT</pubDate>
+            <itunes:duration>3582</itunes:duration>
+        </item>
+
+        <item>
+            <title>Ciaran McAuley :: June 2015 (Obsession #009 on AH.FM)</title>
+            <link>http://www.ciaranmcauley.co.uk</link>
+            <itunes:author>Ciaran McAuley</itunes:author>
+            <itunes:subtitle>Ciaran McAuley :: June 2015 (Obsession #009 on AH.FM)</itunes:subtitle>
+            <itunes:summary>:: Tracklist :: June 2015 ::</itunes:summary>
+            <itunes:keywords>Ciaran McAuley, Obsession, Episode 9</itunes:keywords>
+            <itunes:block>no</itunes:block>
+            <itunes:image href="http://www.ciaranmcauley.co.uk/theme/img/podcast-main.png"/>
+            <enclosure url="http://s3-eu-west-1.amazonaws.com/obsession-radio/cmca-obsession009.mp3" length="91399189" type="audio/mpeg"/>
+            <guid isPermaLink="false">ep009-21.06.2015</guid>
+            <itunes:explicit>no</itunes:explicit>
+            <pubDate>Sun, 21 June 2015 00:00:00 GMT</pubDate>
+            <itunes:duration>3628</itunes:duration>
+        </item>
+
+        <item>
+            <title>Ciaran McAuley :: July 2015 (Obsession #010 on AH.FM)</title>
+            <link>http://www.ciaranmcauley.co.uk</link>
+            <itunes:author>Ciaran McAuley</itunes:author>
+            <itunes:subtitle>Ciaran McAuley :: July 2015 (Obsession #010 on AH.FM)</itunes:subtitle>
+            <itunes:summary>:: Tracklist :: July 2015 ::</itunes:summary>
+            <itunes:keywords>Ciaran McAuley, Obsession, Episode 10</itunes:keywords>
+            <itunes:block>no</itunes:block>
+            <itunes:image href="http://www.ciaranmcauley.co.uk/theme/img/podcast-main.png"/>
+            <enclosure url="http://s3-eu-west-1.amazonaws.com/obsession-radio/cmca-obsession010.mp3" length="91493014" type="audio/mpeg"/>
+            <guid isPermaLink="false">ep010-19.07.2015</guid>
+            <itunes:explicit>no</itunes:explicit>
+            <pubDate>Sun, 19 July 2015 00:00:00 GMT</pubDate>
+            <itunes:duration>3600</itunes:duration>
+        </item>
+
+        <item>
+            <title>Ciaran McAuley :: August 2015 (Obsession #011 on AH.FM)</title>
+            <link>http://www.ciaranmcauley.co.uk</link>
+            <itunes:author>Ciaran McAuley</itunes:author>
+            <itunes:subtitle>Ciaran McAuley :: August 2015 (Obsession #011 on AH.FM)</itunes:subtitle>
+            <itunes:summary>:: Tracklist :: August 2015 ::</itunes:summary>
+            <itunes:keywords>Ciaran McAuley, Obsession, Episode 11</itunes:keywords>
+            <itunes:block>no</itunes:block>
+            <itunes:image href="http://www.ciaranmcauley.co.uk/theme/img/podcast-main.png"/>
+            <enclosure url="http://s3-eu-west-1.amazonaws.com/obsession-radio/cmca-obsession011.mp3" length="90402064" type="audio/mpeg"/>
+            <guid isPermaLink="false">ep011-16.08.2015</guid>
+            <itunes:explicit>no</itunes:explicit>
+            <pubDate>Sun, 16 August 2015 00:00:00 GMT</pubDate>
+            <itunes:duration>3086</itunes:duration>
+        </item>
+
+        <item>
+            <title>Ciaran McAuley :: September 2015 (Obsession #012 on AH.FM)</title>
+            <link>http://www.ciaranmcauley.co.uk</link>
+            <itunes:author>Ciaran McAuley</itunes:author>
+            <itunes:subtitle>Ciaran McAuley :: September 2015 (Obsession #012 on AH.FM)</itunes:subtitle>
+            <itunes:summary>:: Tracklist :: September 2015 ::</itunes:summary>
+            <itunes:keywords>Ciaran McAuley, Obsession, Episode 12</itunes:keywords>
+            <itunes:block>no</itunes:block>
+            <itunes:image href="http://www.ciaranmcauley.co.uk/theme/img/podcast-main.png"/>
+            <enclosure url="http://s3-eu-west-1.amazonaws.com/obsession-radio/cmca-obsession012.mp3" length="93271148" type="audio/mpeg"/>
+            <guid isPermaLink="false">ep012-20.09.2015</guid>
+            <itunes:explicit>no</itunes:explicit>
+            <pubDate>Sun, 20 September 2015 00:00:00 GMT</pubDate>
+            <itunes:duration>3626</itunes:duration>
+        </item>
+
+        <item>
+            <title>Ciaran McAuley :: October 2015 (Obsession #013 on AH.FM)</title>
+            <link>http://www.ciaranmcauley.co.uk</link>
+            <itunes:author>Ciaran McAuley</itunes:author>
+            <itunes:subtitle>Ciaran McAuley :: October 2015 (Obsession #013 on AH.FM)</itunes:subtitle>
+            <itunes:summary>:: Tracklist :: October 2015 ::</itunes:summary>
+            <itunes:keywords>Ciaran McAuley, Obsession, Episode 13</itunes:keywords>
+            <itunes:block>no</itunes:block>
+            <itunes:image href="http://www.ciaranmcauley.co.uk/theme/img/podcast-main.png"/>
+            <enclosure url="http://s3-eu-west-1.amazonaws.com/obsession-radio/cmca-obsession013.mp3" length="91401327" type="audio/mpeg"/>
+            <guid isPermaLink="false">ep013-18.10.2015</guid>
+            <itunes:explicit>no</itunes:explicit>
+            <pubDate>Sun, 18 October 2015 00:00:00 GMT</pubDate>
+            <itunes:duration>3608</itunes:duration>
+        </item>
+
+        <item>
+            <title>Ciaran McAuley :: November 2015 (Obsession #014 on AH.FM)</title>
+            <link>http://www.ciaranmcauley.co.uk</link>
+            <itunes:author>Ciaran McAuley</itunes:author>
+            <itunes:subtitle>Ciaran McAuley :: November 2015 (Obsession #014 on AH.FM)</itunes:subtitle>
+            <itunes:summary>:: Tracklist :: November 2015 ::</itunes:summary>
+            <itunes:keywords>Ciaran McAuley, Obsession, Episode 14</itunes:keywords>
+            <itunes:block>no</itunes:block>
+            <itunes:image href="http://www.ciaranmcauley.co.uk/theme/img/podcast-main.png"/>
+            <enclosure url="http://s3-eu-west-1.amazonaws.com/obsession-radio/cmca-obsession014.mp3" length="91327858" type="audio/mpeg"/>
+            <guid isPermaLink="false">ep014-15.11.2015</guid>
+            <itunes:explicit>no</itunes:explicit>
+            <pubDate>Sun, 15 November 2015 00:00:00 GMT</pubDate>
+            <itunes:duration>3612</itunes:duration>
+        </item>
+
+    </channel>
+</rss>
