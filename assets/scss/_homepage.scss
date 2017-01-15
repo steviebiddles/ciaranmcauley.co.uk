@@ -4,14 +4,32 @@ section#future-events {
 
   img {
     z-index: 999;
+
+    @media (max-width: $screen-xs) {
+      width: 80%;
+    }
   }
 
-  ul {
-    padding-top: 2em;
+  #future-events-container {
     z-index: 9999;
     position: absolute;
-    top: 0;
+    top: 1em;
+    margin-left: auto;
+    margin-right: auto;
     left: 0;
+    right: 0;
     text-align: left;
+    width: 80%;
+
+    @media (min-width: $screen-md) {
+      width: 50%;
+    }
+
+    .future-event {
+      background-color: rgba(157, 157, 157, 0.20);
+      border: 1px solid #5c5c5c;
+      box-shadow: 2px 2px 1px 0 rgba(0,0,0,0.15);
+      margin-bottom: 1em;
+    }
   }
 }
