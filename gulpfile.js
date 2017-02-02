@@ -35,7 +35,7 @@ app.addStyle = function (paths, outputFilename) {
 app.addScript = function (paths, outputFilename) {
     gulp.src(paths)
         .pipe(concat(outputFilename))
-        .pipe(uglify())
+        //.pipe(uglify())
         .pipe(gulp.dest('web/js'))
     ;
 };
@@ -56,6 +56,9 @@ gulp.task('scripts', function () {
     app.addScript([
         config.nodeModulesDir + '/bootstrap-sass/assets/javascripts/bootstrap.js'
     ], 'bootstrap.min.js');
+    app.addScript([
+        config.assetsDir + '/js/app.js'
+    ], 'app.js');
 });
 
 gulp.task('fonts', function () {

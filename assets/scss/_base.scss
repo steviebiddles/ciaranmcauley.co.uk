@@ -1,5 +1,5 @@
 body {
-  background: #525252;
+  background: #525252 url('../img/ciaran.png') center no-repeat;
   color: #ffffff;
 
   [v-cloak] {
@@ -19,11 +19,13 @@ body {
     }
 
     ul#social-networks {
+      margin-bottom: 2em;
+
       a {
         color: #525252;
 
         &:hover {
-          color: #93BD20;
+          color: $colours-green;
         }
       }
 
@@ -37,8 +39,13 @@ body {
     padding: 2em 0 2em 0;
     text-align: center;
 
-    @media (min-width: $screen-md) {
-      text-align: right;
+    a#itunes-link {
+      @media (min-width: $screen-md) {
+        box-shadow: 0 0 20px 1px rgba(255,255,255,1);
+        position: fixed;
+        bottom: 2em;
+        right: 2em;
+      }
     }
   }
 }

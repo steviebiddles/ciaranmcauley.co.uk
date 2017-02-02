@@ -11,13 +11,8 @@ section#future-events {
   }
 
   #future-events-container {
-    z-index: 9999;
-    position: absolute;
-    top: 1em;
     margin-left: auto;
     margin-right: auto;
-    left: 0;
-    right: 0;
     text-align: left;
     width: 80%;
 
@@ -30,6 +25,54 @@ section#future-events {
       border: 1px solid #5c5c5c;
       box-shadow: 2px 2px 1px 0 rgba(0,0,0,0.15);
       margin-bottom: 1em;
+      padding: 1em 0 1em 0.500em;
+
+      h2 {
+        margin: 0 0 0.2500em 0;
+        padding: 0;
+      }
+
+      p {
+        margin: 0;
+        padding: 0;
+      }
+
+      a {
+        @include font-size(16px);
+        color: #ffffff;
+      }
+
+      .event-date {
+        text-transform: uppercase;
+        text-align: center;
+        width: 100px;
+
+        p {
+          background: #ffffff;
+          color: #000000;
+
+          &.month {
+            background: $colours-green;
+            padding: 3px 0;
+          }
+
+          &.date {
+            padding-top: 3px;
+          }
+
+          &.day {
+            padding-bottom: 3px;
+          }
+        }
+      }
+
+      .ticket-uri {
+        float: left;
+
+        @media (min-width: $screen-sm) {
+          float: right;
+        }
+      }
     }
   }
 }
