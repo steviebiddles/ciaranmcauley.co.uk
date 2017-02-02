@@ -38,9 +38,9 @@ $(document).ready(function() {
         el: "#app",
         firebase: {
             futureEvents: {
-                source: eventsRef.orderByChild("start_time").limitToFirst(20),
+                source: eventsRef.limitToFirst(20),
                 asArray: true,
-                cancelCallback: function () {}
+                cancelCallback: function() {}
             }
         },
         methods: {

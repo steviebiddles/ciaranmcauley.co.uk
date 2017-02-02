@@ -83,9 +83,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-xs-12">
-                        <!--<img id="profile-img" src="img/ciaran.png" alt="Ciaran McAuley">-->
-
-                        <div id="future-events-container" v-cloak="">
+                        <div class="future-events-container" v-if="futureEvents.length >= 1" v-cloak="">
                             <div class="row future-event" v-for="(item, index) in futureEvents">
                                 <div class="col-xs-4 col-sm-3 col-md-3 event-date">
                                     <p class="month">{{ item.start_time.date | formatMonth }}</p>
@@ -113,6 +111,14 @@
                                             </p>
                                         </div>
                                     </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="future-events-container" v-else="">
+                            <div class="row future-event">
+                                <div class="col-xs-12">
+                                    <p>No upcoming events.</p>
                                 </div>
                             </div>
                         </div>

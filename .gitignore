@@ -1,5 +1,10 @@
 # Packages
 /node_modules
+/vendor
+
+# Credentials
+.env
+google-service-account.json
 
 # Frontend assets
 /web/js/*
@@ -10,3 +15,4 @@
 
 /web/fonts/*
 !/web/fonts/.gitkeep
+

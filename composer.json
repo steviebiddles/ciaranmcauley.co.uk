@@ -1,0 +1,10 @@
+{
+  "name": "steviebiddles/ciaranmcauley.co.uk",
+  "require": {
+    "facebook/graph-sdk": "^5.4",
+    "ktamas77/firebase-php": "^2.2",
+    "kreait/firebase-php": "^1.2",
+    "vlucas/phpdotenv": "^2.4",
+    "sentry/sentry": "^1.6"
+  }
+}

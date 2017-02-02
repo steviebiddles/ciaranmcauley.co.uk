@@ -1,6 +1,7 @@
 body {
   background: #525252 url('../img/ciaran.png') center no-repeat;
   color: #ffffff;
+  min-height: 100vh;
 
   [v-cloak] {
     display: none;
