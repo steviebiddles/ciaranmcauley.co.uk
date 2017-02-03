@@ -47,9 +47,6 @@ $(document).ready(function() {
             eventUri: function(id) {
                 return "https://www.facebook.com/events/" + id;
             },
-            ticketUri: function(uri) {
-                return uri;
-            },
             address: function(place) {
                 var address = [];
 
