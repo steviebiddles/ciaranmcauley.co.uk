@@ -35,7 +35,7 @@ app.addStyle = function (paths, outputFilename) {
 app.addScript = function (paths, outputFilename) {
     gulp.src(paths)
         .pipe(concat(outputFilename))
-        //.pipe(uglify())
+        .pipe(uglify())
         .pipe(gulp.dest('web/js'))
     ;
 };

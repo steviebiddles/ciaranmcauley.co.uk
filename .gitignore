@@ -3,7 +3,8 @@
 /vendor
 
 # Credentials
-.env
+.env*
+!.env.example
 google-service-account.json
 
 # Frontend assets
