@@ -35,6 +35,10 @@ section#future-events {
       p {
         margin: 0;
         padding: 0;
+
+        &.address {
+          @include font-size(14px);
+        }
       }
 
       a {
