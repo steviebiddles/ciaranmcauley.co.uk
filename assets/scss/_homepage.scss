@@ -1,5 +1,4 @@
 section#future-events {
-  @include font-size(18px);
   text-align: center;
 
   img {
@@ -28,11 +27,14 @@ section#future-events {
       padding: 1em 0 1em 0.500em;
 
       h2 {
-        margin: 0 0 0.2500em 0;
+        @include font-size(20px);
+        line-height: 1.250;
+        margin: 0 0 0.500em 0;
         padding: 0;
       }
 
       p {
+        @include font-size(16px);
         margin: 0;
         padding: 0;
 
@@ -42,7 +44,7 @@ section#future-events {
       }
 
       a {
-        @include font-size(16px);
+        @include font-size(14px);
         color: #ffffff;
       }
 

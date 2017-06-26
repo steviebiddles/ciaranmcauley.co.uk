@@ -47,7 +47,6 @@ app.copy = function (srcFiles, outputDir) {
 
 gulp.task('styles', function () {
     app.addStyle([
-        config.nodeModulesDir + '/bootstrap-sass/assets/stylesheets',
         config.assetsDir + '/' + config.sassPattern
     ], 'site.css');
 });
